@@ -7,7 +7,7 @@
  
 ## Demo
  
- A live demo can be found
+ A live demo can be found [here](https://julietisstudent.github.io/milestone-project-2/)
  
 ## UX
  
