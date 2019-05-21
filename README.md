@@ -7,7 +7,7 @@
  
 ## Demo
  
- A live demo can be found [here](https://julietisstudent.github.io/milestone-project-2/)
+ A live demo can be found [here]()
  
 ## UX
  
@@ -24,6 +24,8 @@
     * The style format for the site
 * Bootstrap (v4.2.1)
      * Framework for responsive design
+* jQuery 
+     * To manipulate the Document Object Model
 * JavaScript
      * To create interactive data design employing Google Maps API
 
@@ -57,4 +59,6 @@ I received inspiration for this project from Code Institute.
 
 The map adopted for the site was generated from this [site](https://developers.google.com/maps/documentation/) to get the API key, 
 enabling access to the Google Maps API.
+
+
  
