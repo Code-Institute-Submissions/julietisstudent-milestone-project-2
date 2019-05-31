@@ -39,7 +39,8 @@ The site features bootstraps grid system to enable responsive design on mobile a
 
 The site has been tested using the Chrome Developer Tools, to see if the map renders properly and the site is responsive on mobile and 
 desktop vesions.
-Specific input map data has been tested to makesure all necessary searches can be carried out.
+Specific input map data has been tested to makesure all necessary searches can be carried out effectively. The site was also tested
+across multiple browsers to ensure resposiveness. 
 
 ## Deployment
 
@@ -57,7 +58,7 @@ The image used on this site was obtained from [here](https://s0.geograph.org.uk/
 ### Acknowledgements
 I received inspiration for this project from Code Institute.
 
-The map adopted for the site was generated from this [site](https://developers.google.com/maps/documentation/) to get the API key, 
+The map and code adopted for the site was generated from this [site](https://developers.google.com/maps/documentation/) to get the API key, 
 enabling access to the Google Maps API.
 
 
